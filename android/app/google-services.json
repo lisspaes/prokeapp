@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "465545379499",
+    "project_id": "project-poke-f7a8c",
+    "storage_bucket": "project-poke-f7a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465545379499:android:058641c4c43cd3e4fb01ee",
+        "android_client_info": {
+          "package_name": "com.lissete.pokemonprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465545379499-o65lul42imin7k2pf1nk8ecmh1gnkeql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lissete.pokemonprueba",
+            "certificate_hash": "943d80477d08b0e987a651813c41335357c76c12"
+          }
+        },
+        {
+          "client_id": "465545379499-775t1isvpl3d4sp32ne4tqagi1hi0buo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnRj7fVbcIFfqXsnN-hQShBxAdrm-IcNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465545379499-775t1isvpl3d4sp32ne4tqagi1hi0buo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465545379499-bgcl6vnct756fktkpb6vc103ois51hib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lissete.pokemonprueba"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
